@@ -1,3 +1,20 @@
+- id: event_1767787868080_wk72vm8x5
+  type: update
+  entity: task
+  entityId: task-1767787044497-1767787044497-def456
+  entityName: Create wireframes222jj
+  field: name
+  oldValue:
+    name:
+      from: Create wireframes222jj
+      to: ppp
+  author: me
+  authorEmail: me@example.com
+  authorId: user-jasonduong-example
+  timestamp: 1767787868080
+  metadata:
+    projectName: Website Redesign
+    projectId: proj-1767787044497-abc123
 - id: event_1767787781286_wyufqy98z
   type: update
   entity: task
