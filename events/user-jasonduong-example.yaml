@@ -1,3 +1,23 @@
+- id: event_1767787781286_wyufqy98z
+  type: update
+  entity: task
+  entityId: task-1767787044497-1767787044497-def456
+  entityName: Create wireframes222jj
+  field: startDate,endDate
+  oldValue:
+    startDate:
+      from: 2026-01-07T00:00:00.000Z
+      to: 2026-01-10T00:00:00.000Z
+    endDate:
+      from: 2026-01-07T00:00:00.000Z
+      to: 2026-01-10T00:00:00.000Z
+  author: me
+  authorEmail: me@example.com
+  authorId: user-jasonduong-example
+  timestamp: 1767787781286
+  metadata:
+    projectName: Website Redesign
+    projectId: proj-1767787044497-abc123
 - id: event_1767787579092_8h9nxk5cu
   type: update
   entity: task

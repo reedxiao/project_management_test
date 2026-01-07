@@ -19,8 +19,8 @@ tasks:
     assignee: user-sarahchen-example
     assigneeName: sarah chen
     status: done
-    startDate: 2026-01-07
-    endDate: 2026-01-07
+    startDate: 2026-01-10
+    endDate: 2026-01-10
   - id: task-1767787044497-1767787044497-ghi789
     name: Design mockups
     assignee: user-sarahchen-example
