@@ -1,0 +1,23 @@
+- id: event_1767787317853_eghzian9i
+  type: update
+  entity: task
+  entityId: task-1767787044497-1767787044497-def456
+  entityName: Create wireframes
+  field: name,startDate,endDate
+  oldValue:
+    name:
+      from: Create wireframes
+      to: Create wireframes222
+    startDate:
+      from: 2026-01-07T11:57:24.497Z
+      to: 2026-01-07T00:00:00.000Z
+    endDate:
+      from: 2026-01-07T11:57:24.497Z
+      to: 2026-01-07T00:00:00.000Z
+  author: me
+  authorEmail: me@example.com
+  authorId: user-jasonduong-example
+  timestamp: 1767787317853
+  metadata:
+    projectName: Website Redesign
+    projectId: proj-1767787044497-abc123
