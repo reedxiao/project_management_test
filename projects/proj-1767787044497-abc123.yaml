@@ -1,0 +1,51 @@
+id: proj-1767787044497-abc123
+name: Website Redesign
+status: active
+priority: high
+startDate: 2026-01-07
+endDate: 2026-01-14
+tags:
+  - frontend
+  - design
+managers: []
+members:
+  - user-sarahchen-example
+  - user-alexkim-example
+taskCount: 5
+progress: 20
+tasks:
+  - id: task-1767787044497-1767787044497-def456
+    name: Create wireframes
+    assignee: user-sarahchen-example
+    assigneeName: sarah chen
+    status: done
+    startDate: 2026-01-07
+    endDate: 2026-01-07
+  - id: task-1767787044497-1767787044497-ghi789
+    name: Design mockups
+    assignee: user-sarahchen-example
+    assigneeName: sarah chen
+    status: in-progress
+    startDate: 2026-01-07
+    endDate: 2026-01-14
+  - id: task-1767787044497-1767787044497-jkl012
+    name: Implement landing page
+    assignee: user-alexkim-example
+    assigneeName: alex kim
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21
+  - id: task-1767787044497-1767787044497-mno345
+    name: Responsive design
+    assignee: user-alexkim-example
+    assigneeName: alex kim
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21
+  - id: task-1767787044497-1767787044497-pqr678
+    name: Cross-browser testing
+    assignee: user-jasonduong-example
+    assigneeName: me
+    status: todo
+    startDate: 2026-01-21
+    endDate: 2026-01-21

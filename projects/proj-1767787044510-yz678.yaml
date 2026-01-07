@@ -1,0 +1,38 @@
+id: proj-1767787044510-yz678
+name: Security Audit
+status: planned
+priority: high
+startDate: 2026-01-14
+endDate: 2026-01-21
+tags:
+  - security
+  - bug
+managers:
+  - user-alexkim-example
+members:
+  - user-alexkim-example
+  - user-sarahchen-example
+taskCount: 3
+progress: 0
+tasks:
+  - id: task-1767787044510-1767787044511-abc901
+    name: Scan for vulnerabilities
+    assignee: user-alexkim-example
+    assigneeName: alex kim
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21
+  - id: task-1767787044510-1767787044512-def234
+    name: Fix critical issues
+    assignee: user-alexkim-example
+    assigneeName: alex kim
+    status: todo
+    startDate: 2026-01-21
+    endDate: 2026-01-21
+  - id: task-1767787044510-1767787044513-ghi567
+    name: Generate report
+    assignee: user-sarahchen-example
+    assigneeName: sarah chen
+    status: todo
+    startDate: 2026-01-21
+    endDate: 2026-01-21

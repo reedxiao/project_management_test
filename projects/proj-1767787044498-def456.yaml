@@ -1,0 +1,37 @@
+id: proj-1767787044498-def456
+name: API Development
+status: planned
+priority: medium
+startDate: 2026-01-07
+endDate: 2026-01-21
+tags:
+  - backend
+  - api
+managers:
+  - user-mikerogers-example
+members:
+  - user-mikerogers-example
+taskCount: 3
+progress: 0
+tasks:
+  - id: task-1767787044498-1767787044499-stu901
+    name: Design API schema
+    assignee: user-mikerogers-example
+    assigneeName: mike rogers
+    status: todo
+    startDate: 2026-01-07
+    endDate: 2026-01-14
+  - id: task-1767787044498-1767787044500-vwx234
+    name: Implement endpoints
+    assignee: user-mikerogers-example
+    assigneeName: mike rogers
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21
+  - id: task-1767787044498-1767787044501-yz567
+    name: Write API docs
+    assignee: user-mikerogers-example
+    assigneeName: mike rogers
+    status: todo
+    startDate: 2026-01-21
+    endDate: 2026-01-21

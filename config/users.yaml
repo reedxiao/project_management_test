@@ -1,0 +1,46 @@
+users:
+  - id: user-jasonduong-example
+    name: me
+    email: me@example.com
+    role: admin
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-sarahchen-example
+    name: sarah chen
+    email: sarah.chen@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-mikerogers-example
+    name: mike rogers
+    email: mike.rogers@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-alexkim-example
+    name: alex kim
+    email: alex.kim@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-hannahpark-example
+    name: hannah park
+    email: hannah.park@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-benellis-example
+    name: ben ellis
+    email: ben.ellis@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-paulamartinez-example
+    name: paula martinez
+    email: paula.martinez@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-frankedwards-example
+    name: frank edwards
+    email: frank.edwards@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z
+  - id: user-quinnalexander-example
+    name: quinn alexander
+    email: quinn.alexander@example.com
+    role: member
+    createdAt: 2026-01-07T11:57:06.245Z

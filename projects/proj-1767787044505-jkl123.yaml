@@ -1,0 +1,44 @@
+id: proj-1767787044505-jkl123
+name: Database Migration
+status: active
+priority: urgent
+startDate: 2026-01-07
+endDate: 2026-01-14
+tags:
+  - backend
+  - database
+managers:
+  - user-mikerogers-example
+members:
+  - user-mikerogers-example
+taskCount: 4
+progress: 50
+tasks:
+  - id: task-1767787044505-1767787044506-mno456
+    name: Backup existing data
+    assignee: user-mikerogers-example
+    assigneeName: mike rogers
+    status: done
+    startDate: 2026-01-07
+    endDate: 2026-01-07
+  - id: task-1767787044505-1767787044507-pqr789
+    name: Create new schema
+    assignee: user-mikerogers-example
+    assigneeName: mike rogers
+    status: done
+    startDate: 2026-01-07
+    endDate: 2026-01-07
+  - id: task-1767787044505-1767787044508-stu012
+    name: Migrate data
+    assignee: user-jasonduong-example
+    assigneeName: me
+    status: in-progress
+    startDate: 2026-01-07
+    endDate: 2026-01-14
+  - id: task-1767787044505-1767787044509-vwx345
+    name: Verify data integrity
+    assignee: user-jasonduong-example
+    assigneeName: me
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-14

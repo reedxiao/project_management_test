@@ -1,0 +1,29 @@
+id: proj-1767787044502-ghi890
+name: Mobile App Update
+status: backlog
+priority: low
+startDate: 2026-01-14
+endDate: 2026-01-21
+tags:
+  - mobile
+  - feature
+managers: []
+members:
+  - user-sarahchen-example
+taskCount: 2
+progress: 0
+tasks:
+  - id: task-1767787044502-1767787044503-abc123
+    name: Update UI components
+    assignee: user-sarahchen-example
+    assigneeName: sarah chen
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21
+  - id: task-1767787044502-1767787044504-def456
+    name: Fix login bug
+    assignee: user-jasonduong-example
+    assigneeName: me
+    status: todo
+    startDate: 2026-01-14
+    endDate: 2026-01-21

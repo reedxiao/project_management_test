@@ -1,0 +1,18 @@
+currentView: my-tasks
+filters: []
+searchQuery: ""
+selectedProjectId: null
+viewOptions:
+  viewType: timeline
+  tasks: indented
+  ordering: manual
+  showAbsentParent: true
+  showClosedProjects: true
+  groupBy: none
+  properties:
+    - title
+    - status
+    - assignee
+    - startDate
+    - dueDate
+boardDisplayMode: all

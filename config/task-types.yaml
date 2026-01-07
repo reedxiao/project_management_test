@@ -1,0 +1,6 @@
+taskTypes:
+  - bug
+  - feature
+  - chore
+  - refactor
+  - documentation
