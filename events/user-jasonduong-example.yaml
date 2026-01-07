@@ -1,3 +1,20 @@
+- id: event_1767789525870_rpligja0c
+  type: update
+  entity: task
+  entityId: task-1767787044505-1767787044506-mno456
+  entityName: Backup existing data
+  field: name
+  oldValue:
+    name:
+      from: Backup existing data
+      to: kkk
+  author: me
+  authorEmail: me@example.com
+  authorId: user-jasonduong-example
+  timestamp: 1767789525870
+  metadata:
+    projectName: Database Migration
+    projectId: proj-1767787044505-jkl123
 - id: event_1767787868080_wk72vm8x5
   type: update
   entity: task
