@@ -20,7 +20,7 @@ tasks:
     assigneeName: mike rogers
     status: done
     startDate: 2026-01-07
-    endDate: 2026-01-07
+    endDate: 2026-01-09
   - id: task-1767787044505-1767787044507-pqr789
     name: Create new schema
     assignee: user-mikerogers-example
