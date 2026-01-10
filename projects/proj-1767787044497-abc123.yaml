@@ -27,7 +27,7 @@ tasks:
     assigneeName: sarah chen
     status: in-progress
     startDate: 2026-01-07
-    endDate: 2026-01-14
+    endDate: 2026-01-15
   - id: task-1767787044497-1767787044497-jkl012
     name: Implement landing page
     assignee: user-alexkim-example
